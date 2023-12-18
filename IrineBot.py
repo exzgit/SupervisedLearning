@@ -16,7 +16,7 @@ from discord.ext import commands
 
 
 
-BotAPI = "MTE0MTY3NTcwODI1MTM5NDEwOA.GN2WrW.-O8CwgaGqsO02mGjOcvYjttQ5EwsLFDuQ_OW4o"
+BotAPI = "GUNAKAN BOT TOKENMU SENDIRI"
 
 # Membuat objek Intents
 intents = discord.Intents.default()
